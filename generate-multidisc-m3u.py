@@ -1,7 +1,5 @@
 #! /usr/bin/env python3
 
-from ast import Store
-
 from natsort import os_sorted
 from pathlib import Path
 
